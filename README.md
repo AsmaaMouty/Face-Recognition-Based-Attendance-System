@@ -18,4 +18,3 @@ FEATURES:
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, 
 name, date and time.
 
-# Face-Recognition-Based-Attendance-System
